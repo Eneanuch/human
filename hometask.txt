@@ -1,0 +1,49 @@
+Отличаются содержанием файлов
+Там (human.txt) :
+    =====
+ ===========
+  ==     ==
+  == = = ==
+   =  =  =
+    = = =
+ == ===== ==
+=  =  0  =  =
+=  =  0  =  =
+ == = 0 = ==
+    = = =
+    = = =
+  ==== ====
+ ===== =====
+Здесь (human.txt):
+     ===
+  == = = ==
+   =  =  =
+    = = =
+ == ===== ==
+=  =  0  =  =
+=  =  0  =  =
+ == = 0 = ==
+    = = =
+    = = =
+  ==== ====
+ ===== =====
+
+Там (README):
+Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+
+You must receive some image as in demo branch
+
+Здесь (README):
+Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+
+You must receive some image as in demo branch
+
+В сумме 5 комитов:
+init
+README added
+fix readme
+
+dots
+boots
+
+(как только закомичу и запушу этот файл - появится еще один коммит)
